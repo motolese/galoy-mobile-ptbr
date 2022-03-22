@@ -1,7 +1,7 @@
 {
   "AuthenticationScreen": {
     "authenticationDescription": "Autenticar para continuar",
-    "setUp": "Set up Biometric Authentication",
+    "setUp": "Configurar autenticação biométrica",
     "setUpAuthenticationDescription": "Usar biometria para autenticar",
     "skip": "Pular",
     "unlock": "Desbloquear",
